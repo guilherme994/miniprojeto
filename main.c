@@ -38,6 +38,6 @@ int main(int argc, char* argv[])  {
       return 1;
   }
   
-  printf("A operacao %d %c %d = %d\n",n_1, operator, n_2, resultado);
+  printf("%d %c %d = %d\n",n_1, operator, n_2, resultado);
   return 0;
 }

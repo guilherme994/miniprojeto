@@ -7,7 +7,7 @@ Calculadora de linha de comando feita como exercício de modularização em C, c
 ```bash
 make
 ./calc 10 + 5
-# Saída: 15
+# Saída:10 + 5 = 15
 ```
 
 Operações suportadas: `+`, `-`, `x`, `/`. Uso `x` em vez de `*` para evitar expansão de glob pelo shell.
